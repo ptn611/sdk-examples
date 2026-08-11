@@ -10,7 +10,7 @@
  * You can get perp market indexes from:
  *   * `View Details` from the perp market on https://app.drift.trade
  *   * Streamlit: https://analytics.drift.trade/?tab=Overview-Markets
- *   * perp markets constants file: https://github.com/drift-labs/protocol-v2/blob/master/sdk/src/constants/perpMarkets.ts
+ *   * perp markets constants file: https://github.com/ptn611/protocol-v2/blob/master/sdk/src/constants/perpMarkets.ts
  */
 import {
 	DriftClient,

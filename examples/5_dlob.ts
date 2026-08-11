@@ -3,8 +3,8 @@
  * Warning: this is quite heavy on the RPC.
  *
  * Alternative is to use the drift hosted DLOB server at https://dlob.drift.trade
- *    * https://drift-labs.github.io/v2-teacher/#orderbook-trades-dlob-server
- *    * https://github.com/drift-labs/dlob-server
+ *    * https://ptn611.github.io/v2-teacher/#orderbook-trades-dlob-server
+ *    * https://github.com/ptn611/dlob-server
  */
 import {
 	DriftClient,
