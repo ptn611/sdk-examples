@@ -33,7 +33,7 @@ import {
 	type SignedMsgOrderParamsDelegateMessage,
     getOrderParams,
     OrderType
-} from "@drift-labs/sdk";
+} from "@velocity-exchange/sdk";
 import { Connection, PublicKey } from "@solana/web3.js";
 
 const privateKey = process.env.PRIVATE_KEY;

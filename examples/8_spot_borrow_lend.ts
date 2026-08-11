@@ -12,7 +12,7 @@ import {
 	TEN,
 	SPOT_MARKET_RATE_PRECISION,
 	Wallet,
-} from "@drift-labs/sdk";
+} from "@velocity-exchange/sdk";
 import { Keypair } from "@solana/web3.js";
 import { Connection } from "@solana/web3.js";
 

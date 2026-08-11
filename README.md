@@ -1,7 +1,7 @@
 # drift-examples
 
-Examples here are written using `bun` 1.1.9. If you are using `node`, the recommended version is v20.18.0. And use [`@drift-labs/sdk`](https://www.npmjs.com/package/@drift-labs/sdk).
-If you are using the drift sdk in browser environment, it's recommended to use [`@drift-labs/sdk-browser`](https://www.npmjs.com/package/@drift-labs/sdk-browser) instead.
+Examples here are written using `bun` 1.1.9. If you are using `node`, the recommended version is v20.18.0. And use [`@velocity-exchange/sdk`](https://www.npmjs.com/package/@velocity-exchange/sdk).
+If you are using the drift sdk in browser environment, it's recommended to use [`@velocity-exchange/sdk-browser`](https://www.npmjs.com/package/@velocity-exchange/sdk-browser) instead.
 
 # Use Node Version Manager
 

@@ -9,12 +9,12 @@ import {
 	DRIFT_PROGRAM_ID,
 	getHighLeverageModeConfigPublicKey,
 	SpotMarkets,
-} from "@drift-labs/sdk";
+} from "@velocity-exchange/sdk";
 import type { // All type imports should be here
 	HighLeverageModeConfig,
 	SpotMarketAccount,
 	SpotMarketConfig,
-} from "@drift-labs/sdk";
+} from "@velocity-exchange/sdk";
 import { Connection, Keypair, PublicKey } from "@solana/web3.js";
 // import { BorshAccountsCoder } from "@project-serum/anchor"; // Only if manual deserialization is needed
 

@@ -12,7 +12,7 @@ import {
 	QUOTE_PRECISION,
 	Wallet,
 	loadKeypair,
-} from "@drift-labs/sdk";
+} from "@velocity-exchange/sdk";
 import { Connection } from "@solana/web3.js";
 
 const privateKey = process.env.PRIVATE_KEY;

@@ -17,7 +17,7 @@ import {
 	BulkAccountLoader,
 	SpotMarkets,
 	getVariant,
-} from "@drift-labs/sdk";
+} from "@velocity-exchange/sdk";
 import { Keypair, PublicKey } from "@solana/web3.js";
 import { Connection } from "@solana/web3.js";
 
